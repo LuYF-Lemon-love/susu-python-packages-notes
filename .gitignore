@@ -1,0 +1,5 @@
+# .gitignore
+# created by LuYF-Lemon-love <luyanfeng_nlp@qq.com>
+
+output/
+.ipynb_checkpoints/
